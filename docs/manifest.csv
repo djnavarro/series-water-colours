@@ -5,6 +5,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 1000/watercolour_sys02_img32_percolate.png,1000,watercolour,sys02,img32,percolate,png,Percolate
 1000/watercolour_sys02_img34_teacup-ocean.jpg,1000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
 1000/watercolour_sys02_img34_teacup-ocean.png,1000,watercolour,sys02,img34,teacup-ocean,png,Ocean in a Teacup
+1000/watercolour_sys02_img37_gentle-descent.jpg,1000,watercolour,sys02,img37,gentle-descent,jpg,Gentle Descent
+1000/watercolour_sys02_img37_gentle-descent.png,1000,watercolour,sys02,img37,gentle-descent,png,Gentle Descent
 1000/watercolour_sys02_img47_inferno.jpg,1000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 1000/watercolour_sys02_img47_inferno.png,1000,watercolour,sys02,img47,inferno,png,Seventh Circle
 2000/watercolour_sys02_img31_incursions.jpg,2000,watercolour,sys02,img31,incursions,jpg,Incursions
@@ -13,6 +15,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 2000/watercolour_sys02_img32_percolate.png,2000,watercolour,sys02,img32,percolate,png,Percolate
 2000/watercolour_sys02_img34_teacup-ocean.jpg,2000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
 2000/watercolour_sys02_img34_teacup-ocean.png,2000,watercolour,sys02,img34,teacup-ocean,png,Ocean in a Teacup
+2000/watercolour_sys02_img37_gentle-descent.jpg,2000,watercolour,sys02,img37,gentle-descent,jpg,Gentle Descent
+2000/watercolour_sys02_img37_gentle-descent.png,2000,watercolour,sys02,img37,gentle-descent,png,Gentle Descent
 2000/watercolour_sys02_img47_inferno.jpg,2000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 2000/watercolour_sys02_img47_inferno.png,2000,watercolour,sys02,img47,inferno,png,Seventh Circle
 4000/watercolour_sys02_img31_incursions.jpg,4000,watercolour,sys02,img31,incursions,jpg,Incursions
@@ -21,6 +25,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 4000/watercolour_sys02_img32_percolate.png,4000,watercolour,sys02,img32,percolate,png,Percolate
 4000/watercolour_sys02_img34_teacup-ocean.jpg,4000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
 4000/watercolour_sys02_img34_teacup-ocean.png,4000,watercolour,sys02,img34,teacup-ocean,png,Ocean in a Teacup
+4000/watercolour_sys02_img37_gentle-descent.jpg,4000,watercolour,sys02,img37,gentle-descent,jpg,Gentle Descent
+4000/watercolour_sys02_img37_gentle-descent.png,4000,watercolour,sys02,img37,gentle-descent,png,Gentle Descent
 4000/watercolour_sys02_img47_inferno.jpg,4000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 4000/watercolour_sys02_img47_inferno.png,4000,watercolour,sys02,img47,inferno,png,Seventh Circle
 500/watercolour_sys02_img31_incursions.jpg,500,watercolour,sys02,img31,incursions,jpg,Incursions
@@ -29,11 +35,15 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 500/watercolour_sys02_img32_percolate.png,500,watercolour,sys02,img32,percolate,png,Percolate
 500/watercolour_sys02_img34_teacup-ocean.jpg,500,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
 500/watercolour_sys02_img34_teacup-ocean.png,500,watercolour,sys02,img34,teacup-ocean,png,Ocean in a Teacup
+500/watercolour_sys02_img37_gentle-descent.jpg,500,watercolour,sys02,img37,gentle-descent,jpg,Gentle Descent
+500/watercolour_sys02_img37_gentle-descent.png,500,watercolour,sys02,img37,gentle-descent,png,Gentle Descent
 500/watercolour_sys02_img47_inferno.jpg,500,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 500/watercolour_sys02_img47_inferno.png,500,watercolour,sys02,img47,inferno,png,Seventh Circle
 8000/watercolour_sys02_img32_percolate.jpg,8000,watercolour,sys02,img32,percolate,jpg,Percolate
 8000/watercolour_sys02_img32_percolate.png,8000,watercolour,sys02,img32,percolate,png,Percolate
 8000/watercolour_sys02_img34_teacup-ocean.jpg,8000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
 8000/watercolour_sys02_img34_teacup-ocean.png,8000,watercolour,sys02,img34,teacup-ocean,png,Ocean in a Teacup
+8000/watercolour_sys02_img37_gentle-descent.jpg,8000,watercolour,sys02,img37,gentle-descent,jpg,Gentle Descent
+8000/watercolour_sys02_img37_gentle-descent.png,8000,watercolour,sys02,img37,gentle-descent,png,Gentle Descent
 8000/watercolour_sys02_img47_inferno.jpg,8000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 8000/watercolour_sys02_img47_inferno.png,8000,watercolour,sys02,img47,inferno,png,Seventh Circle
