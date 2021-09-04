@@ -15,6 +15,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 1000/watercolour_sys02_img43_torn-and-frayed.png,1000,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 1000/watercolour_sys02_img47_inferno.jpg,1000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 1000/watercolour_sys02_img47_inferno.png,1000,watercolour,sys02,img47,inferno,png,Seventh Circle
+1000/watercolour_sys02_img48_storm-cell.jpg,1000,watercolour,sys02,img48,storm-cell,jpg,Storm Cell / Air Elemental
+1000/watercolour_sys02_img48_storm-cell.png,1000,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
 2000/watercolour_sys02_img31_incursions.jpg,2000,watercolour,sys02,img31,incursions,jpg,Incursions
 2000/watercolour_sys02_img31_incursions.png,2000,watercolour,sys02,img31,incursions,png,Incursions
 2000/watercolour_sys02_img32_percolate.jpg,2000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -31,6 +33,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 2000/watercolour_sys02_img43_torn-and-frayed.png,2000,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 2000/watercolour_sys02_img47_inferno.jpg,2000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 2000/watercolour_sys02_img47_inferno.png,2000,watercolour,sys02,img47,inferno,png,Seventh Circle
+2000/watercolour_sys02_img48_storm-cell.jpg,2000,watercolour,sys02,img48,storm-cell,jpg,Storm Cell / Air Elemental
+2000/watercolour_sys02_img48_storm-cell.png,2000,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
 4000/watercolour_sys02_img31_incursions.jpg,4000,watercolour,sys02,img31,incursions,jpg,Incursions
 4000/watercolour_sys02_img31_incursions.png,4000,watercolour,sys02,img31,incursions,png,Incursions
 4000/watercolour_sys02_img32_percolate.jpg,4000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -47,6 +51,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 4000/watercolour_sys02_img43_torn-and-frayed.png,4000,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 4000/watercolour_sys02_img47_inferno.jpg,4000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 4000/watercolour_sys02_img47_inferno.png,4000,watercolour,sys02,img47,inferno,png,Seventh Circle
+4000/watercolour_sys02_img48_storm-cell.jpg,4000,watercolour,sys02,img48,storm-cell,jpg,Storm Cell / Air Elemental
+4000/watercolour_sys02_img48_storm-cell.png,4000,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
 500/watercolour_sys02_img31_incursions.jpg,500,watercolour,sys02,img31,incursions,jpg,Incursions
 500/watercolour_sys02_img31_incursions.png,500,watercolour,sys02,img31,incursions,png,Incursions
 500/watercolour_sys02_img32_percolate.jpg,500,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -63,6 +69,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 500/watercolour_sys02_img43_torn-and-frayed.png,500,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 500/watercolour_sys02_img47_inferno.jpg,500,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 500/watercolour_sys02_img47_inferno.png,500,watercolour,sys02,img47,inferno,png,Seventh Circle
+500/watercolour_sys02_img48_storm-cell.jpg,500,watercolour,sys02,img48,storm-cell,jpg,Storm Cell / Air Elemental
+500/watercolour_sys02_img48_storm-cell.png,500,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
 8000/watercolour_sys02_img32_percolate.jpg,8000,watercolour,sys02,img32,percolate,jpg,Percolate
 8000/watercolour_sys02_img32_percolate.png,8000,watercolour,sys02,img32,percolate,png,Percolate
 8000/watercolour_sys02_img34_teacup-ocean.jpg,8000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
@@ -77,3 +85,5 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 8000/watercolour_sys02_img43_torn-and-frayed.png,8000,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 8000/watercolour_sys02_img47_inferno.jpg,8000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 8000/watercolour_sys02_img47_inferno.png,8000,watercolour,sys02,img47,inferno,png,Seventh Circle
+8000/watercolour_sys02_img48_storm-cell.jpg,8000,watercolour,sys02,img48,storm-cell,jpg,Storm Cell / Air Elemental
+8000/watercolour_sys02_img48_storm-cell.png,8000,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
