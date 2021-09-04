@@ -34,6 +34,7 @@ manifest <- tibble::tibble(path = paths) %>%
       short_name == "torn-and-frayed" ~ "Torn and Frayed",
       short_name == "storm-cell" ~ "Storm Cell / Air Elemental",
       short_name == "tonal-earth" ~ "Tonal Earth",
+      short_name == "cold-front" ~ "Cold Front",
       TRUE ~ NA_character_
     )
   )
