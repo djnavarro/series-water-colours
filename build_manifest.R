@@ -26,6 +26,7 @@ manifest <- tibble::tibble(path = paths) %>%
     long_name = dplyr::case_when(
       short_name == "incursions" ~ "Incursions",
       short_name == "inferno" ~ "Seventh Circle",
+      short_name == "percolate" ~ "Percolate",
       TRUE ~ NA_character_
     )
   )
