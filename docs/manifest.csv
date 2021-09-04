@@ -37,6 +37,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 1000/watercolour_sys02_img65_plume.png,1000,watercolour,sys02,img65,plume,png,Plume
 1000/watercolour_sys02_img67_woodland-spirits.jpg,1000,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
 1000/watercolour_sys02_img67_woodland-spirits.png,1000,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
+1000/watercolour_sys02_img68_below-the-horizon.jpg,1000,watercolour,sys02,img68,below-the-horizon,jpg,Below the Horizon
+1000/watercolour_sys02_img68_below-the-horizon.png,1000,watercolour,sys02,img68,below-the-horizon,png,Below the Horizon
 2000/watercolour_sys02_img31_incursions.jpg,2000,watercolour,sys02,img31,incursions,jpg,Incursions
 2000/watercolour_sys02_img31_incursions.png,2000,watercolour,sys02,img31,incursions,png,Incursions
 2000/watercolour_sys02_img32_percolate.jpg,2000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -74,6 +76,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 2000/watercolour_sys02_img65_plume.png,2000,watercolour,sys02,img65,plume,png,Plume
 2000/watercolour_sys02_img67_woodland-spirits.jpg,2000,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
 2000/watercolour_sys02_img67_woodland-spirits.png,2000,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
+2000/watercolour_sys02_img68_below-the-horizon.jpg,2000,watercolour,sys02,img68,below-the-horizon,jpg,Below the Horizon
+2000/watercolour_sys02_img68_below-the-horizon.png,2000,watercolour,sys02,img68,below-the-horizon,png,Below the Horizon
 4000/watercolour_sys02_img31_incursions.jpg,4000,watercolour,sys02,img31,incursions,jpg,Incursions
 4000/watercolour_sys02_img31_incursions.png,4000,watercolour,sys02,img31,incursions,png,Incursions
 4000/watercolour_sys02_img32_percolate.jpg,4000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -110,6 +114,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 4000/watercolour_sys02_img65_plume.png,4000,watercolour,sys02,img65,plume,png,Plume
 4000/watercolour_sys02_img67_woodland-spirits.jpg,4000,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
 4000/watercolour_sys02_img67_woodland-spirits.png,4000,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
+4000/watercolour_sys02_img68_below-the-horizon.jpg,4000,watercolour,sys02,img68,below-the-horizon,jpg,Below the Horizon
+4000/watercolour_sys02_img68_below-the-horizon.png,4000,watercolour,sys02,img68,below-the-horizon,png,Below the Horizon
 500/watercolour_sys02_img31_incursions.jpg,500,watercolour,sys02,img31,incursions,jpg,Incursions
 500/watercolour_sys02_img31_incursions.png,500,watercolour,sys02,img31,incursions,png,Incursions
 500/watercolour_sys02_img32_percolate.jpg,500,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -148,6 +154,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 500/watercolour_sys02_img65_plume.png,500,watercolour,sys02,img65,plume,png,Plume
 500/watercolour_sys02_img67_woodland-spirits.jpg,500,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
 500/watercolour_sys02_img67_woodland-spirits.png,500,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
+500/watercolour_sys02_img68_below-the-horizon.jpg,500,watercolour,sys02,img68,below-the-horizon,jpg,Below the Horizon
+500/watercolour_sys02_img68_below-the-horizon.png,500,watercolour,sys02,img68,below-the-horizon,png,Below the Horizon
 8000/watercolour_sys02_img32_percolate.jpg,8000,watercolour,sys02,img32,percolate,jpg,Percolate
 8000/watercolour_sys02_img32_percolate.png,8000,watercolour,sys02,img32,percolate,png,Percolate
 8000/watercolour_sys02_img34_teacup-ocean.jpg,8000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
@@ -180,3 +188,5 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 8000/watercolour_sys02_img65_plume.png,8000,watercolour,sys02,img65,plume,png,Plume
 8000/watercolour_sys02_img67_woodland-spirits.jpg,8000,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
 8000/watercolour_sys02_img67_woodland-spirits.png,8000,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
+8000/watercolour_sys02_img68_below-the-horizon.jpg,8000,watercolour,sys02,img68,below-the-horizon,jpg,Below the Horizon
+8000/watercolour_sys02_img68_below-the-horizon.png,8000,watercolour,sys02,img68,below-the-horizon,png,Below the Horizon
