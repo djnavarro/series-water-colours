@@ -27,6 +27,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 1000/watercolour_sys02_img53_departure.png,1000,watercolour,sys02,img53,departure,png,Departure
 1000/watercolour_sys02_img54_echo.jpg,1000,watercolour,sys02,img54,echo,jpg,Echo
 1000/watercolour_sys02_img54_echo.png,1000,watercolour,sys02,img54,echo,png,Echo
+1000/watercolour_sys02_img57_portal.jpg,1000,watercolour,sys02,img57,portal,jpg,Portal
+1000/watercolour_sys02_img57_portal.png,1000,watercolour,sys02,img57,portal,png,Portal
 2000/watercolour_sys02_img31_incursions.jpg,2000,watercolour,sys02,img31,incursions,jpg,Incursions
 2000/watercolour_sys02_img31_incursions.png,2000,watercolour,sys02,img31,incursions,png,Incursions
 2000/watercolour_sys02_img32_percolate.jpg,2000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -54,6 +56,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 2000/watercolour_sys02_img53_departure.png,2000,watercolour,sys02,img53,departure,png,Departure
 2000/watercolour_sys02_img54_echo.jpg,2000,watercolour,sys02,img54,echo,jpg,Echo
 2000/watercolour_sys02_img54_echo.png,2000,watercolour,sys02,img54,echo,png,Echo
+2000/watercolour_sys02_img57_portal.jpg,2000,watercolour,sys02,img57,portal,jpg,Portal
+2000/watercolour_sys02_img57_portal.png,2000,watercolour,sys02,img57,portal,png,Portal
 4000/watercolour_sys02_img31_incursions.jpg,4000,watercolour,sys02,img31,incursions,jpg,Incursions
 4000/watercolour_sys02_img31_incursions.png,4000,watercolour,sys02,img31,incursions,png,Incursions
 4000/watercolour_sys02_img32_percolate.jpg,4000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -80,6 +84,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 4000/watercolour_sys02_img53_departure.png,4000,watercolour,sys02,img53,departure,png,Departure
 4000/watercolour_sys02_img54_echo.jpg,4000,watercolour,sys02,img54,echo,jpg,Echo
 4000/watercolour_sys02_img54_echo.png,4000,watercolour,sys02,img54,echo,png,Echo
+4000/watercolour_sys02_img57_portal.jpg,4000,watercolour,sys02,img57,portal,jpg,Portal
+4000/watercolour_sys02_img57_portal.png,4000,watercolour,sys02,img57,portal,png,Portal
 500/watercolour_sys02_img31_incursions.jpg,500,watercolour,sys02,img31,incursions,jpg,Incursions
 500/watercolour_sys02_img31_incursions.png,500,watercolour,sys02,img31,incursions,png,Incursions
 500/watercolour_sys02_img32_percolate.jpg,500,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -108,6 +114,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 500/watercolour_sys02_img53_departure.png,500,watercolour,sys02,img53,departure,png,Departure
 500/watercolour_sys02_img54_echo.jpg,500,watercolour,sys02,img54,echo,jpg,Echo
 500/watercolour_sys02_img54_echo.png,500,watercolour,sys02,img54,echo,png,Echo
+500/watercolour_sys02_img57_portal.jpg,500,watercolour,sys02,img57,portal,jpg,Portal
+500/watercolour_sys02_img57_portal.png,500,watercolour,sys02,img57,portal,png,Portal
 8000/watercolour_sys02_img32_percolate.jpg,8000,watercolour,sys02,img32,percolate,jpg,Percolate
 8000/watercolour_sys02_img32_percolate.png,8000,watercolour,sys02,img32,percolate,png,Percolate
 8000/watercolour_sys02_img34_teacup-ocean.jpg,8000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
@@ -130,3 +138,5 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 8000/watercolour_sys02_img51_kintsugi-dreams.png,8000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
 8000/watercolour_sys02_img53_departure.jpg,8000,watercolour,sys02,img53,departure,jpg,Departure
 8000/watercolour_sys02_img53_departure.png,8000,watercolour,sys02,img53,departure,png,Departure
+8000/watercolour_sys02_img57_portal.jpg,8000,watercolour,sys02,img57,portal,jpg,Portal
+8000/watercolour_sys02_img57_portal.png,8000,watercolour,sys02,img57,portal,png,Portal

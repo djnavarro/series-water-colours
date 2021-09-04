@@ -38,6 +38,7 @@ manifest <- tibble::tibble(path = paths) %>%
       short_name == "kintsugi-dreams" ~ "Kintsugi Dreams",
       short_name == "departure" ~ "Departure",
       short_name == "echo" ~ "Echo",
+      short_name == "portal" ~ "Portal",
       TRUE ~ NA_character_
     )
   )
