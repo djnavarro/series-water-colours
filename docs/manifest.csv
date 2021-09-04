@@ -23,6 +23,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 1000/watercolour_sys02_img50_cold-front.png,1000,watercolour,sys02,img50,cold-front,png,Cold Front
 1000/watercolour_sys02_img51_kintsugi-dreams.jpg,1000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
 1000/watercolour_sys02_img51_kintsugi-dreams.png,1000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
+1000/watercolour_sys02_img53_departure.jpg,1000,watercolour,sys02,img53,departure,jpg,Departure
+1000/watercolour_sys02_img53_departure.png,1000,watercolour,sys02,img53,departure,png,Departure
 2000/watercolour_sys02_img31_incursions.jpg,2000,watercolour,sys02,img31,incursions,jpg,Incursions
 2000/watercolour_sys02_img31_incursions.png,2000,watercolour,sys02,img31,incursions,png,Incursions
 2000/watercolour_sys02_img32_percolate.jpg,2000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -46,6 +48,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 2000/watercolour_sys02_img50_cold-front.png,2000,watercolour,sys02,img50,cold-front,png,Cold Front
 2000/watercolour_sys02_img51_kintsugi-dreams.jpg,2000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
 2000/watercolour_sys02_img51_kintsugi-dreams.png,2000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
+2000/watercolour_sys02_img53_departure.jpg,2000,watercolour,sys02,img53,departure,jpg,Departure
+2000/watercolour_sys02_img53_departure.png,2000,watercolour,sys02,img53,departure,png,Departure
 4000/watercolour_sys02_img31_incursions.jpg,4000,watercolour,sys02,img31,incursions,jpg,Incursions
 4000/watercolour_sys02_img31_incursions.png,4000,watercolour,sys02,img31,incursions,png,Incursions
 4000/watercolour_sys02_img32_percolate.jpg,4000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -68,6 +72,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 4000/watercolour_sys02_img49_tonal-earth.png,4000,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
 4000/watercolour_sys02_img51_kintsugi-dreams.jpg,4000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
 4000/watercolour_sys02_img51_kintsugi-dreams.png,4000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
+4000/watercolour_sys02_img53_departure.jpg,4000,watercolour,sys02,img53,departure,jpg,Departure
+4000/watercolour_sys02_img53_departure.png,4000,watercolour,sys02,img53,departure,png,Departure
 500/watercolour_sys02_img31_incursions.jpg,500,watercolour,sys02,img31,incursions,jpg,Incursions
 500/watercolour_sys02_img31_incursions.png,500,watercolour,sys02,img31,incursions,png,Incursions
 500/watercolour_sys02_img32_percolate.jpg,500,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -92,6 +98,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 500/watercolour_sys02_img50_cold-front.png,500,watercolour,sys02,img50,cold-front,png,Cold Front
 500/watercolour_sys02_img51_kintsugi-dreams.jpg,500,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
 500/watercolour_sys02_img51_kintsugi-dreams.png,500,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
+500/watercolour_sys02_img53_departure.jpg,500,watercolour,sys02,img53,departure,jpg,Departure
+500/watercolour_sys02_img53_departure.png,500,watercolour,sys02,img53,departure,png,Departure
 8000/watercolour_sys02_img32_percolate.jpg,8000,watercolour,sys02,img32,percolate,jpg,Percolate
 8000/watercolour_sys02_img32_percolate.png,8000,watercolour,sys02,img32,percolate,png,Percolate
 8000/watercolour_sys02_img34_teacup-ocean.jpg,8000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
@@ -112,3 +120,5 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 8000/watercolour_sys02_img49_tonal-earth.png,8000,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
 8000/watercolour_sys02_img51_kintsugi-dreams.jpg,8000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
 8000/watercolour_sys02_img51_kintsugi-dreams.png,8000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
+8000/watercolour_sys02_img53_departure.jpg,8000,watercolour,sys02,img53,departure,jpg,Departure
+8000/watercolour_sys02_img53_departure.png,8000,watercolour,sys02,img53,departure,png,Departure
