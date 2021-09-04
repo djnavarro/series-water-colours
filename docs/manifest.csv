@@ -21,6 +21,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 1000/watercolour_sys02_img49_tonal-earth.png,1000,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
 1000/watercolour_sys02_img50_cold-front.jpg,1000,watercolour,sys02,img50,cold-front,jpg,Cold Front
 1000/watercolour_sys02_img50_cold-front.png,1000,watercolour,sys02,img50,cold-front,png,Cold Front
+1000/watercolour_sys02_img51_kintsugi-dreams.jpg,1000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
+1000/watercolour_sys02_img51_kintsugi-dreams.png,1000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
 2000/watercolour_sys02_img31_incursions.jpg,2000,watercolour,sys02,img31,incursions,jpg,Incursions
 2000/watercolour_sys02_img31_incursions.png,2000,watercolour,sys02,img31,incursions,png,Incursions
 2000/watercolour_sys02_img32_percolate.jpg,2000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -42,6 +44,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 2000/watercolour_sys02_img49_tonal-earth.jpg,2000,watercolour,sys02,img49,tonal-earth,jpg,Tonal Earth
 2000/watercolour_sys02_img49_tonal-earth.png,2000,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
 2000/watercolour_sys02_img50_cold-front.png,2000,watercolour,sys02,img50,cold-front,png,Cold Front
+2000/watercolour_sys02_img51_kintsugi-dreams.jpg,2000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
+2000/watercolour_sys02_img51_kintsugi-dreams.png,2000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
 4000/watercolour_sys02_img31_incursions.jpg,4000,watercolour,sys02,img31,incursions,jpg,Incursions
 4000/watercolour_sys02_img31_incursions.png,4000,watercolour,sys02,img31,incursions,png,Incursions
 4000/watercolour_sys02_img32_percolate.jpg,4000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -62,6 +66,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 4000/watercolour_sys02_img48_storm-cell.png,4000,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
 4000/watercolour_sys02_img49_tonal-earth.jpg,4000,watercolour,sys02,img49,tonal-earth,jpg,Tonal Earth
 4000/watercolour_sys02_img49_tonal-earth.png,4000,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
+4000/watercolour_sys02_img51_kintsugi-dreams.jpg,4000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
+4000/watercolour_sys02_img51_kintsugi-dreams.png,4000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
 500/watercolour_sys02_img31_incursions.jpg,500,watercolour,sys02,img31,incursions,jpg,Incursions
 500/watercolour_sys02_img31_incursions.png,500,watercolour,sys02,img31,incursions,png,Incursions
 500/watercolour_sys02_img32_percolate.jpg,500,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -84,6 +90,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 500/watercolour_sys02_img49_tonal-earth.png,500,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
 500/watercolour_sys02_img50_cold-front.jpg,500,watercolour,sys02,img50,cold-front,jpg,Cold Front
 500/watercolour_sys02_img50_cold-front.png,500,watercolour,sys02,img50,cold-front,png,Cold Front
+500/watercolour_sys02_img51_kintsugi-dreams.jpg,500,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
+500/watercolour_sys02_img51_kintsugi-dreams.png,500,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
 8000/watercolour_sys02_img32_percolate.jpg,8000,watercolour,sys02,img32,percolate,jpg,Percolate
 8000/watercolour_sys02_img32_percolate.png,8000,watercolour,sys02,img32,percolate,png,Percolate
 8000/watercolour_sys02_img34_teacup-ocean.jpg,8000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
@@ -102,3 +110,5 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 8000/watercolour_sys02_img48_storm-cell.png,8000,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
 8000/watercolour_sys02_img49_tonal-earth.jpg,8000,watercolour,sys02,img49,tonal-earth,jpg,Tonal Earth
 8000/watercolour_sys02_img49_tonal-earth.png,8000,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
+8000/watercolour_sys02_img51_kintsugi-dreams.jpg,8000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
+8000/watercolour_sys02_img51_kintsugi-dreams.png,8000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
