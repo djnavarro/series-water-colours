@@ -29,6 +29,7 @@ manifest <- tibble::tibble(path = paths) %>%
       short_name == "percolate" ~ "Percolate",
       short_name == "teacup-ocean" ~ "Ocean in a Teacup",
       short_name == "gentle-descent" ~ "Gentle Descent",
+      short_name == "stormy-seas" ~ "Stormy Seas",
       TRUE ~ NA_character_
     )
   )
