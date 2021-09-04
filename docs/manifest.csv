@@ -59,6 +59,7 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 2000/watercolour_sys02_img48_storm-cell.png,2000,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
 2000/watercolour_sys02_img49_tonal-earth.jpg,2000,watercolour,sys02,img49,tonal-earth,jpg,Tonal Earth
 2000/watercolour_sys02_img49_tonal-earth.png,2000,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
+2000/watercolour_sys02_img50_cold-front.jpg,2000,watercolour,sys02,img50,cold-front,jpg,Cold Front
 2000/watercolour_sys02_img50_cold-front.png,2000,watercolour,sys02,img50,cold-front,png,Cold Front
 2000/watercolour_sys02_img51_kintsugi-dreams.jpg,2000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
 2000/watercolour_sys02_img51_kintsugi-dreams.png,2000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
@@ -98,6 +99,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 4000/watercolour_sys02_img48_storm-cell.png,4000,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
 4000/watercolour_sys02_img49_tonal-earth.jpg,4000,watercolour,sys02,img49,tonal-earth,jpg,Tonal Earth
 4000/watercolour_sys02_img49_tonal-earth.png,4000,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
+4000/watercolour_sys02_img50_cold-front.jpg,4000,watercolour,sys02,img50,cold-front,jpg,Cold Front
+4000/watercolour_sys02_img50_cold-front.png,4000,watercolour,sys02,img50,cold-front,png,Cold Front
 4000/watercolour_sys02_img51_kintsugi-dreams.jpg,4000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
 4000/watercolour_sys02_img51_kintsugi-dreams.png,4000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
 4000/watercolour_sys02_img53_departure.jpg,4000,watercolour,sys02,img53,departure,jpg,Departure
