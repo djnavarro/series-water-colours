@@ -40,6 +40,7 @@ manifest <- tibble::tibble(path = paths) %>%
       short_name == "echo" ~ "Echo",
       short_name == "portal" ~ "Portal",
       short_name == "salt-stone-storm" ~ "Gods of Salt, Stone, and Storm",
+      short_name == "amanecer-de-invierno" ~ "El Último Amanecer de Invierno",
       TRUE ~ NA_character_
     )
   )
