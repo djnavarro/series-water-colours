@@ -39,6 +39,7 @@ manifest <- tibble::tibble(path = paths) %>%
       short_name == "departure" ~ "Departure",
       short_name == "echo" ~ "Echo",
       short_name == "portal" ~ "Portal",
+      short_name == "salt-stone-storm" ~ "Gods of Salt, Stone, and Storm",
       TRUE ~ NA_character_
     )
   )

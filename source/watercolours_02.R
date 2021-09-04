@@ -42,8 +42,9 @@ import_image <- function(image, x_sample = 500, y_sample = 500) {
   ))
 }
 
-watercolours <- function(image, title = "", seed = 4) {
-
+watercolours <- function(image, title = "", seed = 4,
+                         resolutions =  c(500, 1000, 2000, 4000, 8000),
+                         types = c(".png", ".jpg")) {
 
 
   image_path <- fs::path("input", paste0("input_", image, ".jpg"))
@@ -116,14 +117,16 @@ watercolours <- function(image, title = "", seed = 4) {
     theme_void() +
     theme(plot.background = element_rect(fill = "white"))
 
+  # ugh
+  rm(ht, dat)
+  gc()
 
   if(nchar(title) > 0) title <- paste0("_", title)
   output <- paste0("watercolour_sys02_img", image, title)
-  resolutions <- c(500, 1000, 2000, 4000, 8000)
   scaling <- 40/3;
 
   for(size in resolutions) {
-    for(type in c(".png", ".jpg")) {
+    for(type in types) {
       output_path <- fs::path("docs", size, paste0(output, type))
       build_msg <- paste("making", output_path)
       message(build_msg)
