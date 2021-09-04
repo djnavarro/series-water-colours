@@ -11,6 +11,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 1000/watercolour_sys02_img41_stormy-seas.png,1000,watercolour,sys02,img41,stormy-seas,png,Stormy Seas
 1000/watercolour_sys02_img42_turmeric.jpg,1000,watercolour,sys02,img42,turmeric,jpg,Turmeric Against Grey Tuesday
 1000/watercolour_sys02_img42_turmeric.png,1000,watercolour,sys02,img42,turmeric,png,Turmeric Against Grey Tuesday
+1000/watercolour_sys02_img43_torn-and-frayed.jpg,1000,watercolour,sys02,img43,torn-and-frayed,jpg,Torn and Frayed
+1000/watercolour_sys02_img43_torn-and-frayed.png,1000,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 1000/watercolour_sys02_img47_inferno.jpg,1000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 1000/watercolour_sys02_img47_inferno.png,1000,watercolour,sys02,img47,inferno,png,Seventh Circle
 2000/watercolour_sys02_img31_incursions.jpg,2000,watercolour,sys02,img31,incursions,jpg,Incursions
@@ -25,6 +27,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 2000/watercolour_sys02_img41_stormy-seas.png,2000,watercolour,sys02,img41,stormy-seas,png,Stormy Seas
 2000/watercolour_sys02_img42_turmeric.jpg,2000,watercolour,sys02,img42,turmeric,jpg,Turmeric Against Grey Tuesday
 2000/watercolour_sys02_img42_turmeric.png,2000,watercolour,sys02,img42,turmeric,png,Turmeric Against Grey Tuesday
+2000/watercolour_sys02_img43_torn-and-frayed.jpg,2000,watercolour,sys02,img43,torn-and-frayed,jpg,Torn and Frayed
+2000/watercolour_sys02_img43_torn-and-frayed.png,2000,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 2000/watercolour_sys02_img47_inferno.jpg,2000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 2000/watercolour_sys02_img47_inferno.png,2000,watercolour,sys02,img47,inferno,png,Seventh Circle
 4000/watercolour_sys02_img31_incursions.jpg,4000,watercolour,sys02,img31,incursions,jpg,Incursions
@@ -39,6 +43,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 4000/watercolour_sys02_img41_stormy-seas.png,4000,watercolour,sys02,img41,stormy-seas,png,Stormy Seas
 4000/watercolour_sys02_img42_turmeric.jpg,4000,watercolour,sys02,img42,turmeric,jpg,Turmeric Against Grey Tuesday
 4000/watercolour_sys02_img42_turmeric.png,4000,watercolour,sys02,img42,turmeric,png,Turmeric Against Grey Tuesday
+4000/watercolour_sys02_img43_torn-and-frayed.jpg,4000,watercolour,sys02,img43,torn-and-frayed,jpg,Torn and Frayed
+4000/watercolour_sys02_img43_torn-and-frayed.png,4000,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 4000/watercolour_sys02_img47_inferno.jpg,4000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 4000/watercolour_sys02_img47_inferno.png,4000,watercolour,sys02,img47,inferno,png,Seventh Circle
 500/watercolour_sys02_img31_incursions.jpg,500,watercolour,sys02,img31,incursions,jpg,Incursions
@@ -53,6 +59,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 500/watercolour_sys02_img41_stormy-seas.png,500,watercolour,sys02,img41,stormy-seas,png,Stormy Seas
 500/watercolour_sys02_img42_turmeric.jpg,500,watercolour,sys02,img42,turmeric,jpg,Turmeric Against Grey Tuesday
 500/watercolour_sys02_img42_turmeric.png,500,watercolour,sys02,img42,turmeric,png,Turmeric Against Grey Tuesday
+500/watercolour_sys02_img43_torn-and-frayed.jpg,500,watercolour,sys02,img43,torn-and-frayed,jpg,Torn and Frayed
+500/watercolour_sys02_img43_torn-and-frayed.png,500,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 500/watercolour_sys02_img47_inferno.jpg,500,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 500/watercolour_sys02_img47_inferno.png,500,watercolour,sys02,img47,inferno,png,Seventh Circle
 8000/watercolour_sys02_img32_percolate.jpg,8000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -65,5 +73,7 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 8000/watercolour_sys02_img41_stormy-seas.png,8000,watercolour,sys02,img41,stormy-seas,png,Stormy Seas
 8000/watercolour_sys02_img42_turmeric.jpg,8000,watercolour,sys02,img42,turmeric,jpg,Turmeric Against Grey Tuesday
 8000/watercolour_sys02_img42_turmeric.png,8000,watercolour,sys02,img42,turmeric,png,Turmeric Against Grey Tuesday
+8000/watercolour_sys02_img43_torn-and-frayed.jpg,8000,watercolour,sys02,img43,torn-and-frayed,jpg,Torn and Frayed
+8000/watercolour_sys02_img43_torn-and-frayed.png,8000,watercolour,sys02,img43,torn-and-frayed,png,Torn and Frayed
 8000/watercolour_sys02_img47_inferno.jpg,8000,watercolour,sys02,img47,inferno,jpg,Seventh Circle
 8000/watercolour_sys02_img47_inferno.png,8000,watercolour,sys02,img47,inferno,png,Seventh Circle

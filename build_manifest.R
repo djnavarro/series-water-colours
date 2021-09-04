@@ -31,6 +31,7 @@ manifest <- tibble::tibble(path = paths) %>%
       short_name == "gentle-descent" ~ "Gentle Descent",
       short_name == "stormy-seas" ~ "Stormy Seas",
       short_name == "turmeric" ~ "Turmeric Against Grey Tuesday",
+      short_name == "torn-and-frayed" ~ "Torn and Frayed",
       TRUE ~ NA_character_
     )
   )
