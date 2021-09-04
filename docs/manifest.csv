@@ -159,6 +159,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 500/watercolour_sys02_img67_woodland-spirits.png,500,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
 500/watercolour_sys02_img68_below-the-horizon.jpg,500,watercolour,sys02,img68,below-the-horizon,jpg,Below the Horizon
 500/watercolour_sys02_img68_below-the-horizon.png,500,watercolour,sys02,img68,below-the-horizon,png,Below the Horizon
+8000/watercolour_sys02_img31_incursions.jpg,8000,watercolour,sys02,img31,incursions,jpg,Incursions
+8000/watercolour_sys02_img31_incursions.png,8000,watercolour,sys02,img31,incursions,png,Incursions
 8000/watercolour_sys02_img32_percolate.jpg,8000,watercolour,sys02,img32,percolate,jpg,Percolate
 8000/watercolour_sys02_img32_percolate.png,8000,watercolour,sys02,img32,percolate,png,Percolate
 8000/watercolour_sys02_img34_teacup-ocean.jpg,8000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
@@ -177,10 +179,14 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 8000/watercolour_sys02_img48_storm-cell.png,8000,watercolour,sys02,img48,storm-cell,png,Storm Cell / Air Elemental
 8000/watercolour_sys02_img49_tonal-earth.jpg,8000,watercolour,sys02,img49,tonal-earth,jpg,Tonal Earth
 8000/watercolour_sys02_img49_tonal-earth.png,8000,watercolour,sys02,img49,tonal-earth,png,Tonal Earth
+8000/watercolour_sys02_img50_cold-front.jpg,8000,watercolour,sys02,img50,cold-front,jpg,Cold Front
+8000/watercolour_sys02_img50_cold-front.png,8000,watercolour,sys02,img50,cold-front,png,Cold Front
 8000/watercolour_sys02_img51_kintsugi-dreams.jpg,8000,watercolour,sys02,img51,kintsugi-dreams,jpg,Kintsugi Dreams
 8000/watercolour_sys02_img51_kintsugi-dreams.png,8000,watercolour,sys02,img51,kintsugi-dreams,png,Kintsugi Dreams
 8000/watercolour_sys02_img53_departure.jpg,8000,watercolour,sys02,img53,departure,jpg,Departure
 8000/watercolour_sys02_img53_departure.png,8000,watercolour,sys02,img53,departure,png,Departure
+8000/watercolour_sys02_img54_echo.jpg,8000,watercolour,sys02,img54,echo,jpg,Echo
+8000/watercolour_sys02_img54_echo.png,8000,watercolour,sys02,img54,echo,png,Echo
 8000/watercolour_sys02_img57_portal.jpg,8000,watercolour,sys02,img57,portal,jpg,Portal
 8000/watercolour_sys02_img57_portal.png,8000,watercolour,sys02,img57,portal,png,Portal
 8000/watercolour_sys02_img60_salt-stone-storm.jpg,8000,watercolour,sys02,img60,salt-stone-storm,jpg,"Gods of Salt, Stone, and Storm"
