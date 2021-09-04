@@ -33,6 +33,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 1000/watercolour_sys02_img60_salt-stone-storm.png,1000,watercolour,sys02,img60,salt-stone-storm,png,"Gods of Salt, Stone, and Storm"
 1000/watercolour_sys02_img61_amanecer-de-invierno.jpg,1000,watercolour,sys02,img61,amanecer-de-invierno,jpg,El Último Amanecer de Invierno
 1000/watercolour_sys02_img61_amanecer-de-invierno.png,1000,watercolour,sys02,img61,amanecer-de-invierno,png,El Último Amanecer de Invierno
+1000/watercolour_sys02_img67_woodland-spirits.jpg,1000,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
+1000/watercolour_sys02_img67_woodland-spirits.png,1000,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
 2000/watercolour_sys02_img31_incursions.jpg,2000,watercolour,sys02,img31,incursions,jpg,Incursions
 2000/watercolour_sys02_img31_incursions.png,2000,watercolour,sys02,img31,incursions,png,Incursions
 2000/watercolour_sys02_img32_percolate.jpg,2000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -66,6 +68,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 2000/watercolour_sys02_img60_salt-stone-storm.png,2000,watercolour,sys02,img60,salt-stone-storm,png,"Gods of Salt, Stone, and Storm"
 2000/watercolour_sys02_img61_amanecer-de-invierno.jpg,2000,watercolour,sys02,img61,amanecer-de-invierno,jpg,El Último Amanecer de Invierno
 2000/watercolour_sys02_img61_amanecer-de-invierno.png,2000,watercolour,sys02,img61,amanecer-de-invierno,png,El Último Amanecer de Invierno
+2000/watercolour_sys02_img67_woodland-spirits.jpg,2000,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
+2000/watercolour_sys02_img67_woodland-spirits.png,2000,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
 4000/watercolour_sys02_img31_incursions.jpg,4000,watercolour,sys02,img31,incursions,jpg,Incursions
 4000/watercolour_sys02_img31_incursions.png,4000,watercolour,sys02,img31,incursions,png,Incursions
 4000/watercolour_sys02_img32_percolate.jpg,4000,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -98,6 +102,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 4000/watercolour_sys02_img60_salt-stone-storm.png,4000,watercolour,sys02,img60,salt-stone-storm,png,"Gods of Salt, Stone, and Storm"
 4000/watercolour_sys02_img61_amanecer-de-invierno.jpg,4000,watercolour,sys02,img61,amanecer-de-invierno,jpg,El Último Amanecer de Invierno
 4000/watercolour_sys02_img61_amanecer-de-invierno.png,4000,watercolour,sys02,img61,amanecer-de-invierno,png,El Último Amanecer de Invierno
+4000/watercolour_sys02_img67_woodland-spirits.jpg,4000,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
+4000/watercolour_sys02_img67_woodland-spirits.png,4000,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
 500/watercolour_sys02_img31_incursions.jpg,500,watercolour,sys02,img31,incursions,jpg,Incursions
 500/watercolour_sys02_img31_incursions.png,500,watercolour,sys02,img31,incursions,png,Incursions
 500/watercolour_sys02_img32_percolate.jpg,500,watercolour,sys02,img32,percolate,jpg,Percolate
@@ -132,6 +138,8 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 500/watercolour_sys02_img60_salt-stone-storm.png,500,watercolour,sys02,img60,salt-stone-storm,png,"Gods of Salt, Stone, and Storm"
 500/watercolour_sys02_img61_amanecer-de-invierno.jpg,500,watercolour,sys02,img61,amanecer-de-invierno,jpg,El Último Amanecer de Invierno
 500/watercolour_sys02_img61_amanecer-de-invierno.png,500,watercolour,sys02,img61,amanecer-de-invierno,png,El Último Amanecer de Invierno
+500/watercolour_sys02_img67_woodland-spirits.jpg,500,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
+500/watercolour_sys02_img67_woodland-spirits.png,500,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
 8000/watercolour_sys02_img32_percolate.jpg,8000,watercolour,sys02,img32,percolate,jpg,Percolate
 8000/watercolour_sys02_img32_percolate.png,8000,watercolour,sys02,img32,percolate,png,Percolate
 8000/watercolour_sys02_img34_teacup-ocean.jpg,8000,watercolour,sys02,img34,teacup-ocean,jpg,Ocean in a Teacup
@@ -160,3 +168,5 @@ path,resolution,series,sys_id,img_id,short_name,format,long_name
 8000/watercolour_sys02_img60_salt-stone-storm.png,8000,watercolour,sys02,img60,salt-stone-storm,png,"Gods of Salt, Stone, and Storm"
 8000/watercolour_sys02_img61_amanecer-de-invierno.jpg,8000,watercolour,sys02,img61,amanecer-de-invierno,jpg,El Último Amanecer de Invierno
 8000/watercolour_sys02_img61_amanecer-de-invierno.png,8000,watercolour,sys02,img61,amanecer-de-invierno,png,El Último Amanecer de Invierno
+8000/watercolour_sys02_img67_woodland-spirits.jpg,8000,watercolour,sys02,img67,woodland-spirits,jpg,Woodland Spirits
+8000/watercolour_sys02_img67_woodland-spirits.png,8000,watercolour,sys02,img67,woodland-spirits,png,Woodland Spirits
